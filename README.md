@@ -14,7 +14,7 @@
 ## App.jsx
     渲染子组件Search和Main
 ## Search.jsx
-    button加onClick事件
+    * button加onClick事件
     * 给input加ref属性
     * 获取input输入的值
         * 如果有输入，将其传给App.jsx
